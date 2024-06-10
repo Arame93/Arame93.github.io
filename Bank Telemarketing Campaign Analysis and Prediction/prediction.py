@@ -23,6 +23,9 @@ input_data = pd.DataFrame([[age, salary, balance, marital, housing, loan, poutco
                           'marital', "housing", "loan", "poutcome", "job", "education"])
 prediction = model.predict(input_data)
 
+label_mapping = {0: 'no', 1: 'yes'}
+prediction_label = label_mapping[prediction[0]]
+
 # Display prediction
 if st.button('Predict'):
-    st.write("The prediction is:" ,{prediction[0]})
+    st.write("The prediction is:" ,prediction_label)
