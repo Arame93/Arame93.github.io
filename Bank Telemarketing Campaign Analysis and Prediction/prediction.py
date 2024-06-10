@@ -4,7 +4,7 @@ import streamlit as st
 
 model = joblib.load('bank_telemarketing_model.pkl')
 
-st.title('Random Forest Classifier')
+st.title('Bank Telemarketing Campaign Prediction Model')
 st.write('This app predicts whether a customer will accept or deny the bank term deposit offer.')
 
 # User inputs
