@@ -1,5 +1,9 @@
 Arame Project Portfolio
-# About
-My name is Arame Thiam, I am result-oriented professional with an expertise in Data Analysis, with a demonstrated track record of leveraging data to guide strategic decision-making. I am quick to assimilate new ideas, concepts and cutting-edge technologies. I am a collaborative team player adept at working effectively with diverse teams. I am driven by a passion for continuous growth and excellence, I am characterized by my enthusiasm, adaptability, and commitment to delivering optimal results. I thrive in dynamic environments and eagerly embrace opportunities to invest my knowledge and skill set, consistently striving to bring forth my best in every endeavor. 
+# About me
+### My name is Arame Thiam, A passionate about utilizing the power of data to inform decision making and improving strategies.
+A result-oriented professional with 3+ years of experience in Data Analysis especially in data collection processes (designing surveys and forms, scraping data), data quality management, data analysis including statistical analysis, data visualisation, Machine Learning models building and deployement.
+
+Skilled and experienced in Python, SQL, Tableau, Power BI, MS Excel, Airtable, Google tools such as Google Spreadsheet, Google Analytics, Big Query, and Devops tools such as Git.
+
+Would like to continuously grow in a company in which to invest my knowledge and skill set. Characterized by my enthusiasm, adaptability, and commitment to delivering optimal results and consistently striving to bring forth my best in every endeavor. 
 # Projects
-I was involved in different data driven projects in which I  
