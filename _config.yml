@@ -1,7 +1,7 @@
 title: Project Portfolio
 #logo: https://drive.google.com/file/d/1phJo6CHmZt6ilDKnbuyb18bMPsYdEecb/view?usp=sharing
 description: Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/cayman@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
