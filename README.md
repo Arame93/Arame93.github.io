@@ -1,11 +1,11 @@
 # My Project Portfolio
-👋 Hi My name is Arame Thiam, welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
+Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
 
 ## 🔭 Projects
 
 Here are some of my key projects:
 
-- [Bank Telemarketing Campaign](): Brief description of what Project 1 does.
+- [Bank Telemarketing Campaign](): 
 - [Jio Prepaid Plan Customer Segmentation](): Brief description of what Project 2 does.
 - [Climate Variation Forecasting](): Brief description of what Project 3 does.
 
