@@ -5,7 +5,7 @@ Welcome to my project portfolio! Here you will find a collection of my work show
 
 Here are some of my key projects:
 
-- [Bank Telemarketing Campaign Analysis and Prediction](https://github.com/Arame93/Arame93.github.io/tree/6a5b41a5fab0cb86191738d2293583dce0e6e537/Bank%20Telemarketing%20Campaign%20Analysis%20and%20Prediction): 
+- [Bank Telemarketing Campaign Analysis and Prediction](https://github.com/Arame93/Arame93.github.io/tree/6a5b41a5fab0cb86191738d2293583dce0e6e537/Bank%20Telemarketing%20Campaign%20Analysis%20and%20Prediction): The goal of this case study is to do end to end EDA of the bank telemarketing campaign data to infer knowledge that where bank has to put more effort to improve it's positive response rate. In addition, build a prediction model for the bank to identify in the future the customers who will likely accept or reject the marketing offer. 
 - [Jio Prepaid Plan Customer Segmentation](): Brief description of what Project 2 does.
 - [Climate Variation Forecasting](): Brief description of what Project 3 does.
 
