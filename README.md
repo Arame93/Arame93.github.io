@@ -5,7 +5,7 @@ Welcome to my project portfolio! Here you will find a collection of my work show
 
 Here are some of my key projects:
 
-- [Bank Telemarketing Campaign](): 
+- [Bank Telemarketing Campaign](Bank Telemarketing Campaign Analysis and Prediction): 
 - [Jio Prepaid Plan Customer Segmentation](): Brief description of what Project 2 does.
 - [Climate Variation Forecasting](): Brief description of what Project 3 does.
 
