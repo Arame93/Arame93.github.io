@@ -31,10 +31,12 @@ I have visited over 5 countries and love learning about new cultures!
 
 ## ✨ Highlights
 
-- Former DAAD and MasterCard Foundation Scholar
-- Promoted to Data Manager after my data science internship at the Institut Pasteur.
-- Lead a team of 5 (1-data entry operator, 3-head nurses) for a Clinical Decision Support Algorithm project
-- Supervised over 7 data-driven programs in partnership with Meta, US GEC etc.  
+- **Scholarships**: Former DAAD and MasterCard Foundation Scholar
+- **Promotion**: Promoted to Data Manager after my data science internship at the Institut Pasteur.
+- **Leadership**: Lead a team of 5 (1-data entry operator, 3-head nurses) for a Clinical Decision Support Algorithm project
+- **Coordinator**: Supervised over 7 data-driven programs in partnership with Meta, US GEC etc.
+- **Community Leader**: lead a local tech, data journalism community with over 300 active members.
+  
 
 
 Thanks for visiting! Feel free to check out my repositories and get in touch.
