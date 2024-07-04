@@ -1,7 +1,36 @@
-title: Project Portfolio
-logo: photo_arame.jpeg
-description: Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
-theme: jekyll-theme-minimal
+#title: Project Portfolio
+#logo: photo_arame.jpeg
+#description: Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
+#theme: jekyll-theme-minimal
 #remote_theme: pages-themes/cayman@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name]'s Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hello! I'm [Your Name], a [Your Profession].</p>
+    </header>
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="https://github.com/YOUR_USERNAME/PROJECT_1">Project 1</a> - Brief description.</li>
+            <li><a href="https://github.com/YOUR_USERNAME/PROJECT_2">Project 2</a> - Brief description.</li>
+            <li><a href="https://github.com/YOUR_USERNAME/PROJECT_3">Project 3</a> - Brief description.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me via <a href="mailto:your.email@example.com">email</a> or find me on <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a>.</p>
+    </section>
+</body>
+</html>
