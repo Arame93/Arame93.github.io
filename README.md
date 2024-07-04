@@ -1,6 +1,5 @@
-Arame Project Portfolio
 # About me
-photo_arame.jpeg
+
 ### A passionate about utilizing the power of data to inform decision making and improving strategies.
 A result-oriented professional with 3+ years of experience in Data Analysis especially in data collection processes (designing surveys and forms, scraping data), data quality management, data analysis including statistical analysis, data visualisation, Machine Learning models building and deployement.
 
