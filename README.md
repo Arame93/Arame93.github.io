@@ -17,18 +17,24 @@ Here are some of my key projects:
 
 ## 🛠️ Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Dashboard Design and Implementation with Tableau, Power BI, Dash plotly (Python) 
+- Descriptive analysis using statistical methods with Python, R and MS Excel
+- CRM with Airtable
+- Data collection and data quality control using Python/Pandas, MS Excel and Google Spreadsheet for data verification
+- Build Machine Learning, test, validation and deployment using streamlit, and MS Azure
+- Natural Language Processing (NLP)
+- Project Management and Coordination
 
 ## 💡 Fun Fact
 
-Share something interesting about yourself here!
+I have visited over 5 countries and love learning about new cultures!
 
 ## ✨ Highlights
 
-- Achievement 1
-- Achievement 2
-- Achievement 3
+- Former DAAD and MasterCard Foundation Scholar
+- Promoted to Data Manager after my data science internship at the Institut Pasteur.
+- Lead a team of 5 (1-data entry operator, 3-head nurses) for a Clinical Decision Support Algorithm project
+- Supervised over 7 data-driven programs in partnership with Meta, US GEC etc.  
+
 
 Thanks for visiting! Feel free to check out my repositories and get in touch.
