@@ -4,4 +4,4 @@ joblib
 scikit-learn==1.2.2
 numpy
 pickle
-python==3.8
+Python>=3.7
