@@ -3,5 +3,4 @@ pandas
 joblib
 scikit-learn==1.2.2
 numpy
-pickle
-Python>=3.7
+python==3.11
