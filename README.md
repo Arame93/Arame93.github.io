@@ -17,12 +17,12 @@ Here are some of my key projects:
 
 ## 🛠️ Skills
 
-- Dashboard Design and Implementation with Tableau, Power BI, Dash plotly (Python) 
-- Descriptive analysis using statistical methods with Python, R and MS Excel
-- CRM with Airtable
-- Data collection and data quality control using Python/Pandas, MS Excel and Google Spreadsheet for data verification
-- Build Machine Learning, test, validation and deployment using Streamlit, and MS Azure
-- Natural Language Processing (NLP)
+- Dashboard Design and Implementation with Tableau, Power BI, Dash plotly (Python). 
+- Descriptive analysis using statistical methods with Python, R and MS Excel.
+- CRM with Airtable.
+- Data collection and data quality control using Python/Pandas, MS Excel and Google Spreadsheet for data verification.
+- Build Machine Learning models, and deployment using Streamlit, and MS Azure.
+- Natural Language Processing (NLP).
 - Project Management and Coordination
 
 ## 💡 Fact
