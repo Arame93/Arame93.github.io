@@ -35,8 +35,6 @@ if st.button('Predict'):
 #prediction_label = label_mapping[prediction[0]]
 
 # Display prediction
-if st.button('Predict'):
-    st.write("The prediction is:" ,prediction_label)
   
 # File upload for batch prediction
 st.header('Batch Prediction')
