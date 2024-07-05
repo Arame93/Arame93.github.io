@@ -1,6 +1,5 @@
 streamlit==1.36.0
 pandas
-joblib
+joblib==1.4.2
 scikit-learn==1.2.2
 numpy
-uvicorn
