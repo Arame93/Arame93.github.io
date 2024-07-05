@@ -25,7 +25,7 @@ Here are some of my key projects:
 - Natural Language Processing (NLP)
 - Project Management and Coordination
 
-## 💡 Fun Fact
+## 💡 Fact
 
 - I have visited over 5 countries and love learning about new cultures!
 - I am a quick learner! 
