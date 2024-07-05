@@ -1,12 +1,13 @@
 # My Project Portfolio
-Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving complex problems with efficient and scalable solutions.
+Welcome to my project portfolio! Here you will find a collection of my work showcasing my skills in data analysis, and science. Each project reflects my commitment to solving problems with efficient and scalable solutions.
 
 ## 🔭 Projects
 
 Here are some of my key projects:
 
-- [Bank Telemarketing Campaign Analysis and Prediction](https://github.com/Arame93/Arame93.github.io/tree/6a5b41a5fab0cb86191738d2293583dce0e6e537/Bank%20Telemarketing%20Campaign%20Analysis%20and%20Prediction): The goal of this case study is to do end to end EDA of the bank telemarketing campaign data to infer knowledge that where bank has to put more effort to improve it's positive response rate. In addition, build a prediction model for the bank to identify in the future the customers who will likely accept or reject the marketing offer. 
-- [Jio Prepaid Plan Customer Segmentation](): Brief description of what Project 2 does.
+- [Bank Telemarketing Campaign Analysis and Prediction](https://github.com/Arame93/Arame93.github.io/tree/6a5b41a5fab0cb86191738d2293583dce0e6e537/Bank%20Telemarketing%20Campaign%20Analysis%20and%20Prediction): The goal of this case study is to do end to end EDA of the bank telemarketing campaign data to infer knowledge that where bank has to put more effort to improve it's positive response rate. In addition, build a prediction model for the bank to identify in the future the customers who will likely accept or reject the marketing offer.
+- [Vegan Recipe Analysis](https://public.tableau.com/app/profile/arame/viz/VeganRecipesDashboard/Tableaudebord1): in this project, I used NLP techniques to extract nutrient contents for instance amount of sodium in grammes, sugar, fat etc from the variable recipe composition which contents only texts. Then I created for each nutrient a variable that contents the numerical quantity value. The goal of this preprocessing was to transform the data in such a way that I can build a meaningful analysis on vegan recipes quality in nutrient contents such protein, sugar, fat etc. The key outputs of this analysis is then presented throught this tableau dashboard.  
+- [Jio Prepaid Plan Customer Segmentation](): 
 - [Climate Variation Forecasting](): Brief description of what Project 3 does.
 
 ## 📫 How to reach me
