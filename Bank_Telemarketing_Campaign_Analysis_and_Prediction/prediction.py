@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 import streamlit as st
 
-model = joblib.load('bank_telemarketing_model.joblib')
+model = joblib.load('bank_telemarketing_classifier.pkl')
 
 st.title('Bank Telemarketing Campaign Prediction Model')
 st.write('This app predicts whether a customer will accept or deny the bank term deposit offer.')
