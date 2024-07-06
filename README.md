@@ -22,7 +22,7 @@ Here are some of my key projects:
 - CRM with Airtable.
 - Data collection and data quality control using Python/Pandas, MS Excel and Google Spreadsheet for data verification.
 - Build Machine Learning models, and deployment using Streamlit, and MS Azure.
-- Natural Language Processing (NLP).
+- Natural Language Processing (NLP) (Transformers, NLTK etc.).
 - Project Management and Coordination
 
 ## 💡 Fact
