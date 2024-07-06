@@ -20,6 +20,7 @@ Here are some of my key projects:
 - Dashboard Design and Implementation with Tableau, Power BI, Dash plotly (Python). 
 - Descriptive analysis using statistical methods with Python, R and MS Excel.
 - CRM with Airtable.
+- Flourish, Datawrapper for data visualisation.
 - Data collection and data quality control using Python/Pandas, MS Excel and Google Spreadsheet for data verification.
 - Build Machine Learning models, and deployment using Streamlit, and MS Azure.
 - Natural Language Processing (NLP) (Transformers, NLTK etc.).
